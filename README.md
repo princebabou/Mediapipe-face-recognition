@@ -36,7 +36,7 @@ face_detection_assignment/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/face-recognition-lbph.git
+[git clone https://github.com/yourusername/face-recognition-lbph.git](https://github.com/princebabou/Mediapipe-face-ecognition-.git)
 cd face-recognition-lbph
 ```
 
